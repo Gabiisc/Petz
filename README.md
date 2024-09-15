@@ -1,1 +1,1 @@
-https://gabiisc.github.io/Petz-Senai/
+https://gabiisc.github.io/Petz/
